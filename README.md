@@ -1,4 +1,4 @@
-<h1 align="center">Hej! Tu Lilia 👋</h1>
+<h1 align="center">Hej! Tu Liliia 👋</h1>
 <p align="center">Studentka inżynierii oprogramowania | Web Developerka z pasją | Szukam pierwszego doświadczenia</p>
 
 ---
