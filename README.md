@@ -33,7 +33,7 @@
 ### 💼 Projekty / Projects
 
 🔹 [Expedis – Travel Planner App (React + Express + MongoDB)](https://github.com/lilyhurko/expedis)  
-🔹 [TravelMate – Prosty planer podróży z logowaniem](https://github.com/lilyhurko/travelmate)  
+🔹 [TravelMate – Prosty planer podróży z logowaniem](https://github.com/lilyhurko/travel-mate)  
 🔹 (Więcej w sekcji "Pinned Repositories" 👆)
 
 ---
