@@ -33,7 +33,6 @@
 
 🔹 [Expedis – Travel Planner App (React + Express + MongoDB)](https://github.com/lilyhurko/expedis)  
 🔹 [TravelMate – PHP-based simple travel planner](https://github.com/lilyhurko/travel-mate)  
-🔹 (More pinned repositories 👆)
 
 ---
 
