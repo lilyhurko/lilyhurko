@@ -7,7 +7,7 @@
 
 ### About me
 
-🎓 3rd-year Software Engineering student at Lublin University of Technology  
+🎓 4th-year Software Engineering student at Lublin University of Technology  
 🧠 Rapid learner who thrives on challenges and growth  
 🚀 Full-stack web developer building scalable, performant applications  
 🌍 Active contributor to open source and team projects  
